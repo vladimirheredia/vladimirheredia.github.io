@@ -5,3 +5,5 @@ This simple project shows how to create a simple profile card in vanilla HTML & 
 ## This is how the card looks like
 
 ![alt text](https://github.com/vladimirheredia/profile-card-design/blob/master/ProfileCard.png)
+
+[Here is a live link](https://vladimirheredia.github.io/)
